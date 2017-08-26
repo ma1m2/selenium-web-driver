@@ -34,7 +34,7 @@ public class MyFirstClass {
         driver.findElement(By.id("gs_ok0")).click();//opening screen keyboard
         driver.findElement(By.id("K32")).click();
         driver.findElement(By.id("gs_ok0")).click();//closing screen keyboard
-        driver.findElement(By.id("K32")).click();
+    //    driver.findElement(By.id("K32")).click();
     //    q = driver.findElement(By.name("q"));
     //    driver.navigate().refresh();
     //    q.sendKeys("webdriver" + Keys.ENTER);
