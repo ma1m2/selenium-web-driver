@@ -18,7 +18,7 @@ public class MyLitecart {
 
   @Before
   public void start(){
-  //  driver = new ChromeDriver();
+    driver = new ChromeDriver();
   //  driver = new InternetExplorerDriver();
   //  driver = new FirefoxDriver();
   //  driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
