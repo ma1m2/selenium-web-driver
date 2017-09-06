@@ -9,6 +9,7 @@ import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.firefox.FirefoxOptions;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
@@ -20,11 +21,8 @@ public class FFesr52 {
 
   @Before
   public void start(){
-    //driver = new ChromeDriver();
-    DesiredCapabilities caps = new DesiredCapabilities();
-    caps.setCapability(FirefoxDriver.MARIONETTE, true);
-    driver = new FirefoxDriver(caps);
-    System.out.println(((HasCapabilities)driver).getCapabilities());
+    FirefoxOptions options = new FirefoxOptions().setLegacy(false);// новая схема более явно
+    driver = new FirefoxDriver(options);
     wait = new  WebDriverWait(driver,10);
   }
 
