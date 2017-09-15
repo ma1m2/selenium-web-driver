@@ -18,9 +18,7 @@ public class TestBase {
     if (driver != null){
       return;
     }
-    DesiredCapabilities caps = new DesiredCapabilities();
-    caps.setCapability(FirefoxDriver.MARIONETTE, false);
-    driver = new FirefoxDriver(caps);
+    driver = new FirefoxDriver();
     System.out.println(((HasCapabilities) driver).getCapabilities());
     wait = new WebDriverWait(driver, 10);
 

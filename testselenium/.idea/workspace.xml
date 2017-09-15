@@ -63,8 +63,8 @@
       <file leaf-file-name="MyFirstClass.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/selenium/MyFirstClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="43" column="38" lean-forward="false" selection-start-line="43" selection-start-column="15" selection-end-line="43" selection-end-column="38" />
+            <state relative-caret-position="501">
+              <caret line="43" column="40" lean-forward="true" selection-start-line="43" selection-start-column="40" selection-end-line="43" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -75,8 +75,8 @@
       <file leaf-file-name="TestBase.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/onebrowther/TestBase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+            <state relative-caret-position="286">
+              <caret line="19" column="5" lean-forward="false" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -84,35 +84,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FfNightly.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/onebrowther/FfNightly.java">
+      <file leaf-file-name="MyCookies.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/onebrowther/MyCookies.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="479">
-              <caret line="42" column="51" lean-forward="false" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="51" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FFesr52.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/selenium/FFesr52.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="611">
-              <caret line="39" column="3" lean-forward="true" selection-start-line="39" selection-start-column="3" selection-end-line="39" selection-end-column="3" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FFesr52old.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/onebrowther/FFesr52old.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+            <state relative-caret-position="-159">
+              <caret line="24" column="7" lean-forward="true" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -125,6 +101,16 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="308">
               <caret line="24" column="39" lean-forward="false" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyCapabilities.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/selenium/MyCapabilities.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="484">
+              <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -518,9 +504,11 @@
         <option value="$PROJECT_DIR$/java-example/src/test/java/ru/stqa/selenium/PathWebDriver.java" />
         <option value="$PROJECT_DIR$/java-example/src/test/java/ru/stqa/onebrowther/MyFF.java" />
         <option value="$PROJECT_DIR$/java-example/src/test/java/ru/stqa/selenium/MyFirstClass.java" />
+        <option value="$PROJECT_DIR$/java-example/src/test/java/ru/stqa/onebrowther/FFesr52old.java" />
         <option value="$PROJECT_DIR$/java-example/src/test/java/ru/stqa/onebrowther/FfNightly.java" />
         <option value="$PROJECT_DIR$/java-example/src/test/java/ru/stqa/selenium/FFesr52.java" />
-        <option value="$PROJECT_DIR$/java-example/src/test/java/ru/stqa/onebrowther/FFesr52old.java" />
+        <option value="$PROJECT_DIR$/java-example/src/test/java/ru/stqa/onebrowther/TestBase.java" />
+        <option value="$PROJECT_DIR$/java-example/src/test/java/ru/stqa/onebrowther/MyCookies.java" />
       </list>
     </option>
   </component>
@@ -545,6 +533,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -608,8 +598,6 @@
       </pane>
       <pane id="AndroidView" />
       <pane id="PackagesPane" />
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -619,6 +607,7 @@
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+    <property name="extract.method.default.visibility" value="private" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -632,7 +621,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.FFesr52">
+  <component name="RunManager" selected="JUnit.MyCookies">
     <configuration name="FFesr52" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -708,18 +697,18 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="MyFirstClass" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MyCookies" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="ru.stqa.selenium.*" />
+          <option name="PATTERN" value="ru.stqa.onebrowther.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="java-example_test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="ru.stqa.selenium" />
-      <option name="MAIN_CLASS_NAME" value="ru.stqa.selenium.MyFirstClass" />
+      <option name="PACKAGE_NAME" value="ru.stqa.onebrowther" />
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.onebrowther.MyCookies" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -733,7 +722,7 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="MyIE" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MyCookies.coocie" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="ru.stqa.onebrowther.*" />
@@ -744,9 +733,9 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="ru.stqa.onebrowther" />
-      <option name="MAIN_CLASS_NAME" value="ru.stqa.onebrowther.MyIE" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="MAIN_CLASS_NAME" value="ru.stqa.onebrowther.MyCookies" />
+      <option name="METHOD_NAME" value="coocie" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/java-example" />
@@ -840,19 +829,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.MyFirstClass" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.MyIE" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.FfNightly" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.FFesr52" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.FFesr52old" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.FfNightly" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.FFesr52" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.FFesr52old" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.MyCookies.coocie" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.MyCookies" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.FFesr52" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.FFesr52old" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.FfNightly" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.MyFirstClass" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.MyIE" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.MyCookies" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.MyCookies.coocie" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.FFesr52" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.FfNightly" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.FFesr52old" />
       </list>
     </recent_temporary>
   </component>
@@ -873,29 +862,29 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FFesr52 - 2017.09.06 at 20h 03m 04s.xml">
-      <configuration name="FFesr52" configurationId="JUnit" />
+    <history-entry file="MyCookies - 2017.09.13 at 19h 50m 09s.xml">
+      <configuration name="MyCookies" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FFesr52 - 2017.09.06 at 20h 05m 44s.xml">
-      <configuration name="FFesr52" configurationId="JUnit" />
+    <history-entry file="MyCookies - 2017.09.13 at 20h 15m 32s.xml">
+      <configuration name="MyCookies" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FFesr52 - 2017.09.06 at 20h 21m 20s.xml">
-      <configuration name="FFesr52" configurationId="JUnit" />
+    <history-entry file="MyCookies - 2017.09.13 at 20h 17m 43s.xml">
+      <configuration name="MyCookies" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FFesr52 - 2017.09.06 at 20h 23m 57s.xml">
-      <configuration name="FFesr52" configurationId="JUnit" />
+    <history-entry file="MyCookies - 2017.09.13 at 20h 28m 59s.xml">
+      <configuration name="MyCookies" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FFesr52 - 2017.09.06 at 21h 06m 13s.xml">
-      <configuration name="FFesr52" configurationId="JUnit" />
+    <history-entry file="MyCookies - 2017.09.13 at 20h 54m 03s.xml">
+      <configuration name="MyCookies" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FFesr52old - 2017.09.06 at 20h 58m 38s.xml">
-      <configuration name="FFesr52old" configurationId="JUnit" />
+    <history-entry file="MyCookies - 2017.09.13 at 21h 01m 43s.xml">
+      <configuration name="MyCookies" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyFirstClass - 2017.09.05 at 21h 37m 12s.xml">
-      <configuration name="MyFirstClass" configurationId="JUnit" />
+    <history-entry file="MyCookies_coocie - 2017.09.13 at 19h 44m 11s.xml">
+      <configuration name="MyCookies.coocie" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MyIE - 2017.09.03 at 11h 38m 19s.xml">
-      <configuration name="MyIE" configurationId="JUnit" />
+    <history-entry file="MyCookies_coocie - 2017.09.13 at 20h 48m 53s.xml">
+      <configuration name="MyCookies.coocie" configurationId="JUnit" />
     </history-entry>
     <history-entry file="MyIE - 2017.09.03 at 11h 41m 30s.xml">
       <configuration name="MyIE" configurationId="JUnit" />
@@ -906,7 +895,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -921,7 +909,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32899022" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24513619" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2542153" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329429" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -952,24 +940,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/selenium/PathWebDriver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="24" column="39" lean-forward="true" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/onebrowther/FfNightly.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java-example/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
@@ -1069,7 +1039,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="440">
           <caret line="29" column="54" lean-forward="true" selection-start-line="29" selection-start-column="54" selection-end-line="29" selection-end-column="54" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1256,18 +1225,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/selenium/MyCapabilities.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="27" column="7" lean-forward="true" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/selenium/MyOptions.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1289,19 +1250,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="237">
           <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/onebrowther/TestBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1317,7 +1265,53 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
           <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-remote-driver/3.5.2/aa9fc665a5bf15f130b5ae87e9b9ec97ad65094c/selenium-remote-driver-3.5.2-sources.jar!/org/openqa/selenium/remote/RemoteWebDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="536" column="0" lean-forward="false" selection-start-line="536" selection-start-column="0" selection-end-line="536" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/onebrowther/FFesr52old.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="15" column="64" lean-forward="false" selection-start-line="15" selection-start-column="64" selection-end-line="15" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/onebrowther/FfNightly.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="30" column="2" lean-forward="false" selection-start-line="30" selection-start-column="2" selection-end-line="30" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/selenium/FFesr52.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="25" column="35" lean-forward="false" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/onebrowther/TestBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="19" column="5" lean-forward="false" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1329,48 +1323,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/selenium/MyFirstClass.java">
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/selenium/MyCapabilities.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="43" column="38" lean-forward="false" selection-start-line="43" selection-start-column="15" selection-end-line="43" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/onebrowther/FfNightly.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="479">
-          <caret line="42" column="51" lean-forward="false" selection-start-line="42" selection-start-column="23" selection-end-line="42" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-remote-driver/3.5.2/aa9fc665a5bf15f130b5ae87e9b9ec97ad65094c/selenium-remote-driver-3.5.2-sources.jar!/org/openqa/selenium/remote/RemoteWebDriver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="536" column="0" lean-forward="false" selection-start-line="536" selection-start-column="0" selection-end-line="536" selection-end-column="0" />
+        <state relative-caret-position="484">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/onebrowther/FFesr52old.java">
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/selenium/MyFirstClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        <state relative-caret-position="501">
+          <caret line="43" column="40" lean-forward="true" selection-start-line="43" selection-start-column="40" selection-end-line="43" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/selenium/FFesr52.java">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.seleniumhq.selenium/selenium-api/3.5.2/fdf1f2b0d38515668abec16c0ff156218df46bb5/selenium-api-3.5.2-sources.jar!/org/openqa/selenium/Cookie.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="611">
-          <caret line="39" column="3" lean-forward="true" selection-start-line="39" selection-start-column="3" selection-end-line="39" selection-end-column="3" />
+        <state relative-caret-position="132">
+          <caret line="23" column="13" lean-forward="false" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-example/src/test/java/ru/stqa/onebrowther/MyCookies.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-159">
+          <caret line="24" column="7" lean-forward="true" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

@@ -16,13 +16,14 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import static org.openqa.selenium.support.ui.ExpectedConditions.titleIs;
 
 public class FFesr52 {
+  //esr52 по новой схеме не работает
   private WebDriver driver;
   private WebDriverWait wait;
 
   @Before
   public void start(){
-    FirefoxOptions options = new FirefoxOptions().setLegacy(false);// новая схема более явно
-    driver = new FirefoxDriver(options);
+  //  FirefoxOptions options = new FirefoxOptions().setLegacy(false);// новая схема более явно
+    driver = new FirefoxDriver();//options
     wait = new  WebDriverWait(driver,10);
   }
 

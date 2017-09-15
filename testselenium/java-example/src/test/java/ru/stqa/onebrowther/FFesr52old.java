@@ -13,6 +13,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import static org.openqa.selenium.support.ui.ExpectedConditions.titleIs;
 
 public class FFesr52old {
+  //сначала установить esr52 в папку по умолчанию, сейчас там 55
   private WebDriver driver;
   private WebDriverWait wait;
 
