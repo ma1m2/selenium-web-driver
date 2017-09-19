@@ -30,9 +30,9 @@ public class MyFirstClass {
   /*  DesiredCapabilities caps = new DesiredCapabilities();
     caps.setCapability("marionette", "false");
     driver = new FirefoxDriver(caps);*/
-    FirefoxOptions options = new FirefoxOptions().setLegacy(true);//false
-    WebDriver driver = new FirefoxDriver(options);
-  //  driver = new FirefoxDriver();
+  /*  FirefoxOptions options = new FirefoxOptions().setLegacy(true);//false
+    WebDriver driver = new FirefoxDriver(options);*/
+    driver = new FirefoxDriver();
   //  driver = new ChromeDriver();
     driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
     //if Se cannot findElement at once, it will wait 10 seconds
